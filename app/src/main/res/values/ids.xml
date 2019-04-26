@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <id name="simple_chooser_dialog"/>
+    <id name="dialog_default"/>
+
+</resources>
